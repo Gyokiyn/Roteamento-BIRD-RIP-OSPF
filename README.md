@@ -190,13 +190,6 @@ chmod +x rip_metrics.sh
 ./rip_metrics.sh > rip_results.txt
 ```
 
-### Links
-
-https://drive.google.com/file/d/1nOHNuGYWsvtl7VgJX-OlQ1enq09EC_PK/view
-
-https://www.canva.com/design/DAG0NH1Vfok/widBXCWLY0UzMydlJJF7nQ/edit?utm_content=DAG0NH1Vfok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
 ## Autor
 Rômulo Lima Siqueira - Trabalho de Redes de Computadores
 
